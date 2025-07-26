@@ -1,0 +1,88 @@
+Return-Path: <ysprasanna003@gmail.com>
+Delivered-To: purchase@rayaron.in
+Received: from mail-ed1-x532.google.com (mail-ed1-x532.google.com [IPv6:2a00:1450:4864:20::532])
+	by fr-int-smtpin5.hostinger.io (mx.hostinger.com) with ESMTPS id 4bPt4L2yQlzCS5bT;
+	Sun, 22 Jun 2025 00:53:22 +0000 (UTC)
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=rayaron.in;
+	s=hostingermail-a; t=1750553603;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type:
+	 dkim-signature; bh=PCN6UIf11ZVMXhAXuGLr8FZsBrsiDwZVvPU67L732rc=;
+	b=FPnRbg3uIsSCTAjF+Do9gebQDRDVg/P2I9dJayb18QdOW8ka6k4WWJYHUhXc4aloxlCWke
+	jNhLLQsxl2Drz8jlMF5ZS52RMiRgQTnzh/G02c8KvNRScYx21y/6bJL5+IMEggdt4vZLCR
+	jwP5YxyMe4VsyyTMUzGmvanR9NXwDCif40uOMAmPkQGV8c6Yvsd3muqkbh0tEUASGnztC+
+	ziAm1Bk2jhu7uigpM4SfM6X3h26UR99s4JYnuAE4eoEtdqoBKAqxMwfE00olE/OH9b7/WE
+	5yEgftNmJzoFLemEUNpEUGOxRdSXdRbE0KdAxfruklHWyelfwF3FJPtZmJlQpA==
+ARC-Authentication-Results: i=1;
+	fr-int-smtpin5.hostinger.io;
+	dkim=pass header.d=gmail.com header.s=20230601 header.b=it2+KKFi;
+	spf=pass (fr-int-smtpin5.hostinger.io: domain of ysprasanna003@gmail.com designates 2a00:1450:4864:20::532 as permitted sender) smtp.mailfrom=ysprasanna003@gmail.com;
+	dmarc=pass (policy=none) header.from=gmail.com
+ARC-Seal: i=1; s=hostingermail-a; d=rayaron.in; t=1750553603; a=rsa-sha256;
+	cv=none;
+	b=b1mIV/hdBfzeij8RbTuX5m0pvKpWSBwOxOPEfOnbiJ/RH9aWJ4m7ni4Rp2k66BQsRQTTK9
+	QXJR3Jo7SBhj7gYdZMPuGq5/pPyaH6vyBqmB+7ek+OFPMHCGsnPEz09RXEUmFX4vejeDjb
+	TnuMFq2fMc4PwxPaTbA19YJCm2S1EJQ/D1wiEwBYbTJ3xKRG5np6qPX9xXftHRJ5LzmVwW
+	wXGNdnScUj6am6UmDdrryHErS0+b+Dgt76SlShuEgokWypwhWluynhr0HkRRuxKPCUGf0E
+	lnkQTHO81elN2mzLNor2rmGm4p2cBgtcJt/P+8jKEcTvBs2CX7FS2WQFcFHp5w==
+Received: by mail-ed1-x532.google.com with SMTP id 4fb4d7f45d1cf-6071ac9dc3eso5255666a12.1;
+        Sat, 21 Jun 2025 17:53:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20230601; t=1750553601; x=1751158401; darn=rayaron.in;
+        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject
+         :date:message-id:reply-to;
+        bh=PCN6UIf11ZVMXhAXuGLr8FZsBrsiDwZVvPU67L732rc=;
+        b=it2+KKFi9cOVwjNKJ1rOD9FeaSn7asIlULaits9UyAkSjJsoMgJr5/5Ky+nbF6dZRn
+         nnZELdbdGfvlqT0AcGAxpidJVzBLGUxMaF/WDcIA4+d9frpl+46bTMtCnX0m5R/OVR0m
+         K0H0cXTOXQeasHzzLy9kxNSUJtWz7VnGHcoHr5JphqaEdSUgwl9PR6ka06e2AApxkMPG
+         aYjdiOKBZbmgGULe7Ifv6bjbT/4z4mEpInQL2Y5pDrTwP5xaAGVhAefn9KVzYEF5BVly
+         R5cmGPam8Otr8X110Un1pOZLWcvOjcV80w6zMriHSa3Ul8RSgIyq2xKGBLAGwU3Sy7AQ
+         tndg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1750553601; x=1751158401;
+        h=to:subject:message-id:date:from:mime-version:x-gm-message-state
+         :from:to:cc:subject:date:message-id:reply-to;
+        bh=PCN6UIf11ZVMXhAXuGLr8FZsBrsiDwZVvPU67L732rc=;
+        b=OFMXm5zeexyMr/3XiK5CszPEqOQf9b5VpGeWohxYuaJWrUswMspE1Xt8qumQ9j28MU
+         9i1dHklk9QgPqaFJ6Qzjv+2GHhs/JfCribsE+6dMYDseB9Y3E8Kn2HG3kXwjUGlpMZD+
+         aWrpHeEIXWzoLosPu5sylUa79MsrmIZoueVJDjwVqkTj9WHN4d/aow/PMhatNHoKVb+4
+         F2fb0t/HZtBWXjEBoMgoAlO/mgc1hIl7LSNvjbd/ESwA3bNZ8JCZgkxWhkLoGxUqOs3n
+         4fhEkDUHtD6hGWU08Rguzp8lzXyyPQZPYOz+B+1QpY1GIj6Iig+eaKNc+5B6sHtxOHSN
+         6FjA==
+X-Forwarded-Encrypted: i=1; AJvYcCU/pk0IbTYLPLpVwGjT8CiI5WrPg5wT4tdcL3sfnzaGlTfmHpGBfD6qaDKwfkkH7VT04nN6n70C7KdM9mU=@rayaron.in, AJvYcCWBdhbLTGlwRqvcacW22dIdrxvLtMfOi9YT1efzFHuPynX57OBfX04FcAEtfhZeQKtaoTXQQ3DYlA==@rayaron.in, AJvYcCX/sJL3qIQNBVdJ0fAHRC+YUW2FqlcQnW2P5TkiuFaQhfyEeoeavkQj/lJ7924acF5VkZBDXbmy7DA=@rayaron.in
+X-Gm-Message-State: AOJu0YwJ0uqRyG33riBtql/o1BTZrmv13+t8ZpuSMp90tpGJlIhOq8zY
+	rrRceqxJVf6vcWathOpKkC72j9mK8La0tygKQcCSY1dDMDzFUW6qAcluYQsnHgu/RNSJzzoYL/y
+	pP13mF7RvO7BJzob/Ds5RPg8xitQ3FI7w5i/9
+X-Gm-Gg: ASbGncscNLmLwW03mjvx0ENLjmsVny+0DQjaSRj41/8Cu0o46JhZDyouhT1CUZm3B13
+	Bo1IMOLjAPTGL92kI7UN22JF8e4xTItZNmFwrDzpM4Na3pJp6tV10WY516PffEnaVMLGWtVHP5P
+	GVa9V1xZt4dEcTJKX3NWKit5VxsSvfIwQORuEeY9qfuOKfDVN9tSGQB9dE0/DYQPUK
+X-Google-Smtp-Source: AGHT+IGeBU2cOXRajwZHj6VJDaRzBSgGyZSzolRRgZ6mm/8wfxQdqSKFfK6SY1BPjJfJLxPMZ5ubUNx8TST+USomynU=
+X-Received: by 2002:a05:6402:13c9:b0:607:2b27:7f41 with SMTP id
+ 4fb4d7f45d1cf-60a1cd1a123mr6806642a12.4.1750553600923; Sat, 21 Jun 2025
+ 17:53:20 -0700 (PDT)
+MIME-Version: 1.0
+From: PRASANNA YS <ysprasanna003@gmail.com>
+Date: Sun, 22 Jun 2025 06:23:08 +0530
+X-Gm-Features: AX0GCFvPjKqoYjAfblWozuvrgen9JdF0NYUif_bvxlHMvsClM-Pgi6in3B_LQjo
+Message-ID: <CALrRAi0wfvxF7F-wQ9mieYQuWG5NwGYXOx9feW4wJ12JfE=imA@mail.gmail.com>
+Subject: Quotation required
+To: info@rayaron.in, lakshmip@rayaron.in, purchase@rayaron.in, 
+	ysprasannaa@rayaron.in
+Content-Type: multipart/alternative; boundary="0000000000008b1ab806381e858d"
+
+--0000000000008b1ab806381e858d
+Content-Type: text/plain; charset="UTF-8"
+
+Dear sir,
+
+As discussed please provide quote for the same.
+
+Regards,
+ysprasannaa
+
+--0000000000008b1ab806381e858d
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="auto">Dear sir,<div dir="auto"><br></div><div dir="auto">As discussed please provide quote for the same.</div><div dir="auto"><br></div><div dir="auto">Regards,</div><div dir="auto">ysprasannaa</div></div>
+
+--0000000000008b1ab806381e858d--
