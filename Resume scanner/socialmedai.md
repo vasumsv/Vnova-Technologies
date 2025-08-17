@@ -17,7 +17,7 @@ Perfect for:
 💼 Career changers targeting new roles
 🚀 Professionals seeking better opportunities
 
-Try it FREE: https://resumescanpro.com
+Try it FREE: https://resumescan.in
 
 #ResumeOptimization #ATSScanner #JobSearch #CareerTips #FreeTools #JobSeekers #ResumeHelp #CareerGrowth #JobHunt #ProfessionalDevelopment
 ```
@@ -39,7 +39,7 @@ Try it FREE: https://resumescanpro.com
 Most companies use ATS systems that filter resumes before human review. Our tool ensures your resume passes these digital gatekeepers.
 
 🚀 Ready to 3x your interview callbacks?
-Try Resume Scan Pro: https://resumescanpro.com
+Try Resume Scan Pro: https://resumescan.in
 
 #ATS #ResumeScanner #JobSearch #CareerSuccess #FreeTools
 ```
@@ -65,7 +65,7 @@ Resume Scan Pro provides:
 • Completely FREE forever
 
 🎯 Your turn: Optimize your resume today!
-Link: https://resumescanpro.com
+Link: https://resumescan.in
 
 #ResumeOptimization #CareerSuccess #JobSearch #ATSScanner
 ```
@@ -88,7 +88,7 @@ Resume Scan Pro analyzes your resume and tells you:
 
 Best part? It's 100% FREE! 🎉
 
-Try it here: https://resumescanpro.com
+Try it here: https://resumescan.in
 
 Tag a friend who's job hunting! 👇
 
@@ -117,7 +117,7 @@ Here's what happens:
 
 Don't let robots reject your dream job application!
 
-Check your resume now: https://resumescanpro.com
+Check your resume now: https://resumescan.in
 
 Share this with someone who needs it! 💪
 
@@ -184,7 +184,7 @@ I hope this email finds you well.
 I wanted to share an exciting FREE resource that could significantly benefit our students in their job search journey.
 
 **Resume Scan Pro - Free ATS Resume Scanner**
-Website: https://resumescanpro.com
+Website: https://resumescan.in
 
 **Why This Matters for Our Students:**
 
@@ -208,7 +208,7 @@ In today's competitive job market, 75% of companies use Applicant Tracking Syste
 
 **How Students Can Use It:**
 
-1. Visit https://resumescanpro.com
+1. Visit https://resumescan.in
 2. Upload their resume (PDF/DOC) or paste text
 3. Add target job description
 4. Get instant analysis and optimization tips
@@ -254,7 +254,7 @@ You know how frustrating it is when you apply to dozens of jobs but barely get a
 **The Solution - Resume Scan Pro:**
 I discovered this amazing FREE tool that analyzes your resume against ATS systems and tells you exactly how to optimize it.
 
-🔗 **Link: https://resumescanpro.com**
+🔗 **Link: https://resumescan.in**
 
 **What It Does:**
 ✅ Scans your resume for ATS compatibility
@@ -272,7 +272,7 @@ I discovered this amazing FREE tool that analyzes your resume against ATS system
 • No registration required
 
 **How to Use:**
-1. Go to https://resumescanpro.com
+1. Go to https://resumescan.in
 2. Upload your resume or paste the text
 3. Copy-paste a job description you're targeting
 4. Get instant analysis and tips
@@ -311,7 +311,7 @@ Resume Scan Pro - checks if your resume passes ATS systems
 
 Perfect for placement prep! 
 
-Try it: https://resumescanpro.com
+Try it: https://resumescan.in
 
 Share with friends who are job hunting! 💪
 ```
@@ -338,7 +338,7 @@ Why it's great:
 ✅ No registration needed
 ✅ 50K+ users worldwide
 
-Link: https://resumescanpro.com
+Link: https://resumescan.in
 
 Perfect timing for placement season! Try it and share your results 📊
 
