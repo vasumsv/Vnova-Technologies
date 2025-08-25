@@ -1,0 +1,55 @@
+Discount feature
+
+
+Admin:
+Suppose one book is purchased for 80 ruppes and 
+mrp is 250 and we are selling for 150 ruppes and need to find out that 
+what we bought and wehat we are selling in analytics with profit margin.
+
+
+Catgeory:
+
+Product add:
+Stock in or out of stock in numbers when min 5 it should says 5 is remianing.
+Share BOOK LINK OPTION(you can biy this from Olavubooks.com)
+
+
+Checkout 
+
+
+Place order: We will delivery in India Post (Email and sms or Whatsapp) as order placed will be delivered with in 3 working days(Mail/Sms/Whatsapp).
+
+
+When product name is searched with kannada or english  then they need to get the Product.
+Keywords adding to admin (For example: Alchemist, Akmist, ALLchmest)(In Admin)
+
+
+
+SEO - 
+
+WEB slider - needs to be minimisktic - 6 slides.
+
+Track our order: (Add the Track your order Link)(Add default Link of India post)
+
+
+New Update:
+Shipping address: add one more coloumns email(optional).
+Need to record the Time when order is placed including the date.
+
+Add new section: Blog(Comming Soon)
+
+
+
+Recently Viewed section.
+
+Add section: New Arivals(New Products add recent)
+
+
+
+
+
+
+
+
+
+
