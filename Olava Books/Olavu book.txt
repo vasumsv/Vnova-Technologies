@@ -1,0 +1,19 @@
+Recently Viewed - reduce the card size and show perfect - 
+
+
+image size needs to 6040 size.
+
+make sure entire is full screen.
+
+Gifting books section. - client want in the current produts to make a gift combo section so when the books are in Podutcs 
+create a separe menu - to add gift combo and based on Name user should able to search the book and and a one more option to add and make a combo and 
+also to add images about 5 Max. and set the price.
+
+Group of books
+
+
+
+Authors section - with photo add it in add product
+
+
+PRINT OPTION IN order - total amount, Customer information wit address, qty 

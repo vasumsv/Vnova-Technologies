@@ -30,7 +30,7 @@ SEO -
 WEB slider - needs to be minimisktic - 6 slides.
 
 Track our order: (Add the Track your order Link)(Add default Link of India post)
-
+-----------------------------------------------
 
 New Update:
 Shipping address: add one more coloumns email(optional).
@@ -45,6 +45,15 @@ Recently Viewed section.
 Add section: New Arivals(New Products add recent)
 
 
+Delivery charges will be COD 60
+and prepaid means 49  Delivery will be Free when the total amount exceeds 599/-
+
+
+New section display Books based on Authors
+
+
+
+----------------------------------
 
 
 
